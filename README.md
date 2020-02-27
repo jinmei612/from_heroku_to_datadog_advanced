@@ -2,7 +2,7 @@
 
 You should have one heroku webapp running after this exercise: https://github.com/jinmei612/from_heroku_to_datadog
 
-Now, let's create another heroku webapp that calls the webapp we created earlier
+Now, let's create another heroku webapp using the files in this repo. (Change the URL [here](https://github.com/jinmei612/from_heroku_to_datadog_advanced/blob/master/app.py#L13) to your own heroku webapp)
 
 You know what to do, if not, revisit https://github.com/jinmei612/from_heroku_to_datadog/blob/master/README.md
 
