@@ -22,3 +22,6 @@ To send all heroku logs to Datadog, run:
 
 
 https://docs.datadoghq.com/logs/guide/collect-heroku-logs/?tab=ussite
+
+# Opentracing
+Coming soon
