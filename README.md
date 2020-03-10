@@ -7,7 +7,9 @@ Now, let's create another heroku webapp using the files in this repo. (Change th
 You know what to do, if not, revisit https://github.com/jinmei612/from_heroku_to_datadog/blob/master/README.md
 
 Run `heroku config` to check your env var 
+
 Run `heroku config:add DD_<envvar>=<value>` to set env var
+
 
 ```
 DD_API_KEY:                xxx
@@ -25,3 +27,6 @@ https://docs.datadoghq.com/logs/guide/collect-heroku-logs/?tab=ussite
 
 # Opentracing
 Coming soon
+
+# Useful Commands
+
